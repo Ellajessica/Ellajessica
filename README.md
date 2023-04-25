@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @Ellajessica
-- 👀 I’m interested in Software engineering ,solidity developer and becoming the best version of myself.
-- 🌱 I’m currently learning Software Engineering @holberton school, alx-Africa
+- 👀 I’m interested in Software engineering and Blockchain  development
+- 🌱 I’m currently  done learning Software Engineering @holberton school, alx-Africa and COURSERA
 - 💞️ I’m looking forward to working with high performance software enginneers
 - 📫 How to reach me https://twitter.com/Kul_ellajessica , emmanuellachinenye767@gmail.com
 
