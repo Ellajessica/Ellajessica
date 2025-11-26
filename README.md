@@ -1,33 +1,77 @@
-<div align="center">
-  <h1>Hello, I'm Ella Jessica 👋</h1>
-  <p>Junior Backend Software Engineer | Django Developer | Blockchain Enthusiast</p>
-</div>
 
-### About Me
-🎓 Recently graduated with a solid foundation in software engineering after completing a comprehensive 1-year course. Eager to apply my skills and knowledge in real-world projects and contribute to the dynamic tech industry.
 
-### Current Stack
-💻 Proficient in Django, with a focus on building robust and scalable web applications. Would also love  to dive into the world of Node.js and React to broaden my skill set and create engaging user interfaces.
+# Hello, I'm Ella Jessica
 
-### Future Endeavors
-🚀 On a mission to transition into  of blockchain development. Keen on exploring decentralized technologies, smart contracts, and contributing to the evolution of decentralized applications (DApps).
+**Backend Developer | Web3 developer | Django | Node.js**
 
 
 
-### Let's Collaborate
-🌟 Open to collaboration opportunities, whether it's working on exciting projects, learning together, or sharing insights. Reach out if you have interesting tech endeavors in mind!
+## About Me
 
-### Looking Forward
-🌱 Constantly learning and evolving. Excited about the endless possibilities in tech and determined to make a positive impact. Let's build something amazing together!
+I'm a backend developer with **4+ years of professional experience** building scalable, production-ready applications. I specialize in server-side architecture and have worked across Django, Node.js, and Next.js ecosystems. I'm passionate about writing clean code, optimizing performance, and solving complex problems.
 
-
-
-<div align="center">
-  <sub>❤️ Ella Jessica</sub>
-</div>
+Currently exploring Web3 technologies and interested in building decentralized applications.
 
 
-<!---
-Ellajessica/Ellajessica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Technical Skills
+
+### Backend Development
+
+- **Languages**: Python, JavaScript/TypeScript
+- **Frameworks**: Django, Node.js, Next.js
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **APIs**: RESTful APIs, GraphQL, Microservices
+- **DevOps**: Docker, CI/CD pipelines, AWS/GCP basics
+
+
+### Frontend & Full Stack
+
+- React, React hooks, state management
+- Responsive design, HTML/CSS
+- Full-stack development with Next.js
+
+
+### Additional Skills
+
+- System design & architecture
+- Database optimization & indexing
+- Git & version control
+- Testing & debugging
+- API security & authentication
+
+
+
+## Currently Exploring
+
+- Web3 development and smart contracts
+- Blockchain fundamentals
+- Advanced system design patterns
+- Performance optimization techniques
+
+
+## Experience Breakdown
+
+- **Python & Django**: Building robust backend systems, ORM optimization
+- **Node.js**: Event-driven architecture, real-time applications
+- **Next.js**: Full-stack applications with server components and API routes
+- **Database Design**: Schema optimization, query performance, migrations
+
+
+
+## Connect With Me
+
+- **Email**: emmanuellachinenye767@gmail.com
+  
+
+## Open To
+
+- Collaborating on backend/full-stack projects
+- Discussing system design and architecture
+- Contributing to open-source projects
+- Backend development opportunities
+
+
+---
+
+**Passionate about building scalable, efficient systems.**
